@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "ma_sinhvien":"17089678",
+        "ten_sinhvien":"Nguyễn Văn Hoàng",
+        "ngay_sinh":"21/11/1999",
+        "avatar":"./avatar"
+    },
+    {
+        "id":1,
+        "ma_sinhvien":"170896756",
+        "ten_sinhvien":"Nguyễn Thị Ngọc Á",
+        "ngay_sinh":"19/08/1999",
+        "avatar":"./avatar"
+    }
+]
